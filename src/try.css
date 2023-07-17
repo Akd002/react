@@ -1,0 +1,25 @@
+p{
+    color:red;
+
+}
+input{
+    border:solid red;
+    padding:5px;
+    margin:2px;
+    background-color: aquamarine;
+    color:blueviolet;
+
+}
+li{
+    list-style-type: disc;
+    color:red;
+    border:solid 3x;
+    margin:2px;
+    padding:1px;
+}
+link{
+    border:dotted 3px;
+    color:red;
+    
+}
+
